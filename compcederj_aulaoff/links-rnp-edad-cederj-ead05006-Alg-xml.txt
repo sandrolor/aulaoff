@@ -1,0 +1,14 @@
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_001/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_002/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_003/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_004/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_005/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_006/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_007/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_008/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_009/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_010/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_011/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_012/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_013/Aula_001.xml
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=/cederj/sistemas_comp/ead05006/Aula_014/Aula_001.xml
