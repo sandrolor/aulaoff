@@ -243,7 +243,7 @@
 			}
         </style>
 		<![endif]-->
-		<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+		<script type="text/javascript" src="jquery.min.js"></script>
 		<script type="text/javascript">
 			<!--
 			var active = true;
@@ -271,10 +271,7 @@
 				return path;
 			}
 			function getPathXml(){
-				var pathXml = location.href;
-				var pathXml = pathXml.split('/');
-				var pathXml = pathXml[0] + "/" + pathXml[1] + "/" + pathXml[2] + pathXml[3] + "/" + pathXml[4];
-				return pathXml;
+				return getPath().replace(":///","://");
 			}
 			function remove(){
 				var ifrm = $('iframe').remove();
@@ -305,6 +302,10 @@
 				aulas.empty().append(index);
 				for(var i = 0; i < count; i++){
 					var newOption = $('<option>',{text:'Aula '+(i+1),value:i+1});
+			//		if (($('#disciplina').val()) = 4){
+			//			i = i - 1;
+			//			var newOption = $('<option>',{text:'Aula '+(i+1),value:i+1});
+			//		}
 					aulas.append( newOption);
 				}
 				aulas.addClass('new');
@@ -365,7 +366,7 @@
 					<optgroup label="1° Periodo">
 						<option value="01" data-length="13">Introdução à Informática </option>
 						<option value="02" data-length="20">Construção de Página Web</option>
-						<option value="04" data-length="24">Fundamentos de Algoritmos para Computação</option>
+						<option value="04" data-length="25">Fundamentos de Algoritmos para Computação</option>
 						<option value="05" data-length="15">Projeto e Desenvolvimento de Algoritmos</option>
 					</optgroup>
 					<optgroup label="2° Periodo">
